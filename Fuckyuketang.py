@@ -6,8 +6,12 @@ import requests
 import re
 import base64
 import json
-CSR = "LPQdMEDPRtrKBDyfejr9OVUoKLPzPu5q"
-SES = "7yej81smba7f6ee824tgzswimglhatzj"
+
+#这里请用开发者工具获取自己的cookie中的token
+CSR = "你的"
+SES = "你的"
+
+
 token = "5q2k5Li65byA5rqQ5bel5YW355SxaGV3ZWkyNzIz5LqM5qyh5byA5Y+R77yM5LuF5L6b5a2m5Lmg5Lqk5rWB5L2/55So"
 csrftoken = (CSR)
 sessionid = (SES)
