@@ -17,6 +17,8 @@
 
 执行pip install requests
 
+### 请手动修改Fuckyuketang.py中的token
+
 #### 注意
 
 目前不可用于公选课，但可以尝试一下
